@@ -126,7 +126,7 @@ $indent_3: 15px;
 }
 
 .br-circle {
-  border-radius: 50%;
+  border-radius: 50% !important;
 }
 
 .font-bolder {
@@ -184,7 +184,7 @@ $indent_3: 15px;
 }
 
 .mt-3 {
-  margin-top: $indent_3;
+  margin-top: $indent_3 !important;
 }
 
 .mb-1 {
