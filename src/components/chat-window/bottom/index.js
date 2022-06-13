@@ -104,6 +104,7 @@ const ChatBottom = () => {
     <div>
       <InputGroup>
         <AttachmentBtnModal afterUpload={afterUpload} />
+
         <Input
           placeholder="Send messages..."
           value={input}
